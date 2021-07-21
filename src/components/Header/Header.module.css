@@ -3,5 +3,6 @@
     background-color: rgb(27, 90, 27);
 }
 .header img{
-    width: 100px;
+    margin: 10px;
+    width: 80px;
 }
